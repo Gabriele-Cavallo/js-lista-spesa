@@ -1,6 +1,8 @@
 Ciao ragazze e ciao ragazzi!
 
-nome repo: js-lista-spesaConsegna:
+nome repo: js-lista-spesa
+
+Consegna:
 
 Data una lista della spesa:
 
