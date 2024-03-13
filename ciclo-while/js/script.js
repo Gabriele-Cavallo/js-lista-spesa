@@ -23,3 +23,8 @@ const list = [
 // 2 - Creo la variabile all'elemento del DOM
 let userList = document.querySelector('#list');
 // 3 - Stampo ogni elemento dell'array nel DOM con il ciclo while
+let i = 0;
+while (i < list.length){
+    userList.innerHTML += `<li>${list[i]}</li>`;
+    i++;
+}
